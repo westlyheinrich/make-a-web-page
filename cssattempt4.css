@@ -1,0 +1,29 @@
+body {
+  background: #323232;
+  padding: 4%;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.mainheading {
+  background: #003366;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+}
+
+.subheading {
+  background: #1b818d;
+  text-align: center;
+}
+
+.content {
+  background: #40e0d0;
+}
+
+.content-web {
+  background: #40e0d0;
+}
